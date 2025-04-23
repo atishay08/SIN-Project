@@ -1,0 +1,45 @@
+Disease: Salivary Gland Neoplasms
+Network: 21557 nodes, 342353 edges
+
+
+Random Walk Top 10 Predictions:
+27344: 0.0201
+5587: 0.0195
+1462: 0.0195
+23209: 0.0194
+6484: 0.0194
+2195: 0.0194
+23619: 0.0194
+53335: 0.0194
+9454: 0.0194
+5174: 0.0194
+
+Neighborhood Top 10 Predictions:
+7157: 1.0000
+5578: 0.8571
+7415: 0.8571
+10987: 0.7143
+3320: 0.7143
+7329: 0.7143
+1994: 0.7143
+8452: 0.7143
+7529: 0.7143
+3066: 0.7143
+
+DIAMOnD Top 10 Predictions:
+81831: 1.0000
+7153: 1.0000
+9454: 1.0000
+51514: 1.0000
+3691: 1.0000
+3866: 1.0000
+5834: 1.0000
+5176: 1.0000
+6664: 1.0000
+1612: 1.0000
+
+Community Structure Properties:
+disease_proteins: 44
+disease_clustering: 0.0000
+avg_disease_degree: 48.7045
+largest_component_size: 4
