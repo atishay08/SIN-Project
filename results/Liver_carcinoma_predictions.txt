@@ -2,6 +2,7 @@ Disease: Liver carcinoma
 Network: 21557 nodes, 342353 edges
 Known disease proteins: 222
 
+<<<<<<< HEAD
 === Evaluation Metrics ===
 
 Random Walk:
@@ -36,6 +37,8 @@ Recall@100: 0.0092
 MRR: 0.0006
 AP: 0.0122
 
+=======
+>>>>>>> 302a48058b423e2090fc0311a510d0c42a505162
 === Top 10 Predictions ===
 
 Random Walk:
@@ -62,6 +65,7 @@ Neighborhood:
 2033: 0.7609
 3320: 0.7609
 
+<<<<<<< HEAD
 DIAMOnD:
 10961: 1.0000
 6194: 1.0000
@@ -85,6 +89,19 @@ Node2Vec:
 64053: 0.0102
 192656: 0.0102
 16451: 0.0102
+=======
+Node2Vec:
+26754: 0.0102
+7177: 0.0102
+283165: 0.0102
+10233: 0.0102
+150921: 0.0102
+83571: 0.0102
+441531: 0.0102
+852755: 0.0102
+79054: 0.0102
+7625: 0.0102
+>>>>>>> 302a48058b423e2090fc0311a510d0c42a505162
 
 === Community Structure Properties ===
 disease_proteins: 217
