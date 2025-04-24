@@ -1,0 +1,19 @@
+About This Project
+
+This repository contains the code and resources for a project developed as part of the CSD363 Social and Information Networks course at Shiv Nadar University.
+
+Topic: Classification of diseases into disease categories
+
+Project Description:
+
+This project explores the application of network analysis algorithms to understand and predict disease-associated proteins within a Human Protein Interaction Network (HPIN). While the broader course topic is the classification of diseases into categories, this project focuses on evaluating how different network-based approaches can identify proteins relevant to a specific disease (Liver carcinoma, in this case).
+
+We implement and compare several algorithms, including:
+
+DIAMOnD: A method that iteratively expands a seed set based on statistically significant connectivity.
+Random Walk: A diffusion-based approach that scores proteins based on network flow.
+Node2Vec: A technique that learns network embeddings using biased random walks.
+Neighborhood Algorithm: A simple method based on direct neighbor connectivity.
+Graph Convolutional Network (GCN): A deep learning model for graph-structured data.
+The project includes code for data preprocessing, implementing these algorithms, evaluating their performance using standard metrics (Recall@k, MRR, AP), and analyzing network structural properties of the disease pathway. The insights gained from comparing these algorithms contribute to understanding the effectiveness of different network analysis techniques in a biological context, drawing parallels to their applications in social and information networks.
+
