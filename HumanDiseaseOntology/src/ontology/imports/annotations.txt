@@ -1,3 +1,0 @@
-rdfs:label
-oboInOwl:id
-owl:deprecated
