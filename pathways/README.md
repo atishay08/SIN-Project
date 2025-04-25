@@ -27,11 +27,3 @@ If you find disease pathway analysis useful for your research, please consider c
       pages = {111-122}
     }
 
-## Miscellaneous
-
-Please send any questions you might have about the code and/or the 
-algorithm to <marinka@cs.stanford.edu>.
-
-## License
-
-Decagon is licensed under the MIT License.
